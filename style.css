@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background-image: url(http://twistedsifter.com/wp-content/uploads/2013/05/animated-gifs-of-fighting-game-backgrounds-24.gif);
+    height: 100vh;
+    background-repeat: repeat;
+    background-size: cover;
+    background-position: bottom;
+}
+.earthquake{
+    height: 300px;
+    position: absolute;
+    bottom: 0;
+}
